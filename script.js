@@ -6,8 +6,11 @@ const socialLinks = {
     "Email" : "mailto:letsapproach69@gmail.com"
 }
 const letsapproachLinks = {
-    "Book 1-On-1 Call#imp" : "https://calendly.com/letsapproach69/30min",
-    "Group Session Overview" : "https://drive.google.com/file/d/1fzJkuJpfpyDyVvtdlBPsH-XpBYyjHxA1/view"
+    "Book 1-On-1 Call#imp" : "https://forms.gle/jqxmjrKcvx9zTAjU9",
+    "Texting Session" : "https://forms.gle/iNZ7UoqupvgXNbuo6",
+    "Approach Session" : "https://forms.gle/fN4jphpUyHQEgBpb9",
+    "IRL Bootcamp" : "https://forms.gle/d9dcytFRavGTif317",
+    "Sunday Workshop" : "https://forms.gle/Wshnrk7aFdWEbF1cA"
 }
 
 function addLinks(title, dict){
