@@ -1,8 +1,8 @@
 const socialLinks = {
     "Instagram": "https://www.instagram.com/letsapproach",
     "YouTube#yt": "https://youtube.com/@letsapproachyt?si=khi2ChTHsbHDaIzQ",
-    "Discord Invite" : "https://discord.gg/UB9M6X2FDG",
-    "UPI" : "https://discord.com/channels/1286413784549687326/1363837887694504106/1363852853579616347",
+    "Discord Invite" : "https://discord.gg/xAcX3bcJPQ",
+    "UPI" : "https://drive.google.com/file/d/1pOp3ZFU5n1bN2oZmMJw5FaWV7b3hb1Ki/view?usp=sharing",
     "Email" : "mailto:letsapproach69@gmail.com"
 }
 const letsapproachLinks = {
