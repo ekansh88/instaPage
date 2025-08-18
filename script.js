@@ -1,15 +1,15 @@
 const socialLinks = {
     "Instagram": "https://www.instagram.com/letsapproach",
-    "YouTube#yt": "https://youtube.com/@letsapproachyt?si=khi2ChTHsbHDaIzQ",
-    "Discord Invite" : "https://discord.gg/xAcX3bcJPQ",
+    "YouTube Channel#yt": "https://youtube.com/@letsapproachyt?si=khi2ChTHsbHDaIzQ",
+    "Discord Community" : "https://discord.gg/xAcX3bcJPQ",
     "UPI" : "https://drive.google.com/file/d/1pOp3ZFU5n1bN2oZmMJw5FaWV7b3hb1Ki/view?usp=sharing",
-    "Email" : "mailto:letsapproach69@gmail.com"
+    "Email ID" : "mailto:letsapproach69@gmail.com"
 }
 const letsapproachLinks = {
-    "Book 1-On-1 Call#imp" : "https://forms.gle/jqxmjrKcvx9zTAjU9",
+    // "Book 1-On-1 Call" : "https://forms.gle/jqxmjrKcvx9zTAjU9",
     "Texting Session" : "https://forms.gle/iNZ7UoqupvgXNbuo6",
     "Approach Session" : "https://forms.gle/fN4jphpUyHQEgBpb9",
-    "IRL Bootcamp" : "https://forms.gle/d9dcytFRavGTif317",
+    "In-Field Bootcamp" : "https://forms.gle/d9dcytFRavGTif317",
     "Sunday Workshop" : "https://forms.gle/Wshnrk7aFdWEbF1cA"
 }
 
@@ -39,4 +39,4 @@ function addLinks(title, dict){
     return true;
 }
 addLinks("My Socials", socialLinks)
-addLinks("@letsapproach Resources", letsapproachLinks)
+addLinks("Dating Life Programs", letsapproachLinks)
