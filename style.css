@@ -51,14 +51,18 @@ body{
     /* border: 0.2vh solid #30b2c95d; */        
 }
 
-[class="all-in-one"]{
+[class="add-5vh-padding"]{
+    height: 5vh;
+}
+
+[class="all-in-one"], [class="main-link-section"]{
     /* backdrop-filter: blur(10px); */
     background-color: #071e227e;
     /* border: 0.2vh solid #30b2c95d; */
     border: 0.2vh solid #30b2c95d;
     border-radius: 2vw;
     box-shadow: 0 0 35vw #73eaff96;
-    padding: 0 5vh 5vh 5vh;
+    padding: 5vh 5vh 5vh 5vh;
     /* height: 60vh; */
     width: 65%;
     display: flex;
